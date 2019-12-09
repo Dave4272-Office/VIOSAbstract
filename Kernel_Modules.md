@@ -1,9 +1,9 @@
 # Kernel Modules
 
 1. Voice Recognition (STT)
-2. Voice Synthesis (TTS)
+2. Feature Extractor (FE)
 3. Command Interpreter (CmdInt)
 4. Command Executor (CmdExec)
-5. Feature Extractor (FE)
-6. Speech Generator (SpGen)
+5. Speech Generator (SpGen)
+6. Voice Synthesis (TTS)
 
