@@ -1,4 +1,4 @@
-# Kernel Modules
+# Modules
 
 1. Voice Recognition (STT)
 2. Feature Extractor (FE)

@@ -21,7 +21,7 @@ Combined **_"Bragi Endre"_** means  **_"Change your Mind"_**.
 
 ## Objective / Requirements
 
-1. OS With Linux Kernel
+1. OS With Linux Kernel [Arch Linux Base]
 2. Text User Interface
 3. Voice Interactive Login
 4. Graphical User Interface with low latency
@@ -29,7 +29,7 @@ Combined **_"Bragi Endre"_** means  **_"Change your Mind"_**.
 
 ## Modules
 
-[Kernel Modules Proposed](Kernel_Modules.md)
+[Modules Proposed](Modules.md)
 
 
 ## Todo
